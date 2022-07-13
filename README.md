@@ -1,4 +1,4 @@
-# vue_old_slider_ts
+# vue_slider_3d
 
 This template should help get you started developing with Vue 3 in Vite.
 
